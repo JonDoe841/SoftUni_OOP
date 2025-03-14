@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.9 (SoftUni_OOP)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (SoftUni_OOP)" project-jdk-type="Python SDK" />
 </project>
