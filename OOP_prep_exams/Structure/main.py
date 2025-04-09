@@ -30,8 +30,8 @@ print()
 
 # Perform sales
 print(manager.sell_plants("1234567890", "Rose", 3))
-print(manager.sell_plants("0987654321", "Tulip", 2)) #broken
-print(manager.sell_plants("5647382910", "Cactus", 1)) # broken
+print(manager.sell_plants("0987654321", "Tulip", 2))
+print(manager.sell_plants("5647382910", "Cactus", 1))
 print()
 
 # Get shop report
